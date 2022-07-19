@@ -1,0 +1,52 @@
+.heading {
+    width: 100%;
+    margin: 0;
+    font-size: 30px;
+}
+
+.note {
+    font-size: 20px;
+    color: white;
+}
+
+.speed {
+    float: left;
+}
+
+.speeddisk {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed {
+    font-size: 30px;
+    margin: 15px;
+}
+
+.volume {
+    float: right;
+}
+
+.voldisk {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume {
+    font-size: 30px;
+    margin: 15px;
+}
+
+.playbtn {
+    width: 300px;
+    font-size: 20px;
+}
+
+canvas {
+    border-width: 3px;
+    border-color: rgb(35, 112, 140);
+    border-radius: 20px;
+    margin-top: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
